@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.zeratoxx.gitgrep.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.zeratoxx.gitgrep.MyBundle
 
 class MyApplicationService {
 
